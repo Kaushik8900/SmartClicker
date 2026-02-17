@@ -25,6 +25,7 @@ Go to the **Releases** section to download the latest version:
 
 ➡️ https://github.com/Kaushik8900/SmartClicker/releases
 
+Download Here: https://github.com/Kaushik8900/SmartClicker/releases/download/v1.0/SmartClicker_Setup.exe
 
 ---
 
